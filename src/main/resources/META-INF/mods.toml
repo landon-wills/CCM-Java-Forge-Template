@@ -3,28 +3,28 @@ loaderVersion = "[40,)"
 license = "MIT"
 
 [[mods]]
-modId = "cobblemon_forge_mdk"
-version = "1.0.0"
-displayName = "Cobblemon Forge Template Sidemod"
+modId = <inject:mod-id>
+version = "1.0.0-SNAPSHOT"
+displayName = <inject:mod-name>
 description = '''
 
 '''
 
-[[dependencies.cobblemon_forge_mdk]]
+[[dependencies.<inject:mod-id>]]
 modId = "minecraft"
 mandatory = true
 versionRange = "[1.19.2]"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.cobblemon_forge_mdk]]
+[[dependencies.<inject.mod-id>]]
 modId = "forge"
 mandatory = true
 versionRange = "[36,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.cobblemon_forge_mdk]]
+[[dependencies.<inject.mod-id>]]
 modId = "cobblemon"
 mandatory = true
 versionRange = "[1.2.0,2.0)"

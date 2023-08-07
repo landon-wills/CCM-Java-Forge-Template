@@ -1,4 +1,4 @@
-rootProject.name = "Forge"
+rootProject.name = <inject:mod-name>
 
 pluginManagement {
     repositories {

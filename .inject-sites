@@ -1,0 +1,4 @@
+./src/main/java/BaseModTemplate.java
+./build.gradle.kts
+./.settings.gradle.kts
+./src/main/resources/META-INF/mods.toml

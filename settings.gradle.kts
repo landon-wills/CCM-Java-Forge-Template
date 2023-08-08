@@ -1,4 +1,4 @@
-rootProject.name = <inject:mod-name>
+rootProject.name = "<inject:mod-name>"
 
 pluginManagement {
     repositories {

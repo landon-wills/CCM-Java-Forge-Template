@@ -4,7 +4,7 @@ plugins {
     id("architectury-plugin") version("3.4-SNAPSHOT")
 }
 
-group = <inject:mod-namespace>
+group = "<inject:mod-namespace>"
 version = "1.0.0-SNAPSHOT"
 
 architectury {

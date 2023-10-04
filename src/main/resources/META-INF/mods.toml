@@ -17,14 +17,14 @@ versionRange = "[1.19.2]"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.<inject.mod-id>]]
+[[dependencies.<inject:mod-id>]]
 modId = "forge"
 mandatory = true
 versionRange = "[36,)"
 ordering = "NONE"
 side = "BOTH"
 
-[[dependencies.<inject.mod-id>]]
+[[dependencies.<inject:mod-id>]]
 modId = "cobblemon"
 mandatory = true
 versionRange = "[1.2.0,2.0)"
